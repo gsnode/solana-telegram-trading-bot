@@ -122,6 +122,8 @@ Your bot will start polling for updates. Open Telegram and search for your bot b
 
 ## 6. How the Bot Works
 
+<img width="612" alt="Captura de pantalla 2025-03-12 a la(s) 21 17 16" src="https://github.com/user-attachments/assets/7d13f0d1-991f-47f3-9901-463dee102b9e" />
+
 ### /start
 	•	Purpose: Displays the main menu with interactive buttons.
 	•	Details: The main menu includes buttons for Connect Wallet, Set Pair, Buy, Sell, Balance, Positions, and Alert.
