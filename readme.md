@@ -1,6 +1,8 @@
 # Solana Trading Bot for Telegram
 
-Welcome to the Solana Trading Bot! This project allows you to build and run your very own Telegram trading bot for the Solana blockchain. Whether you're completely new to programming or just starting out in blockchain, this step-by-step guide will help you set up Visual Studio Code with Python, create your bot using BotFather (including setting a custom profile picture), create a virtual environment, install the required libraries, configure the code, run your bot in your terminal, and finally interact with your bot on Telegram. This guide is optimized for the keyword **"how to build a telegram trading bot"**.
+Welcome to the Solana Trading Bot! This project allows you to build and run your very own Telegram trading bot for the Solana blockchain. 
+
+Whether you're completely new to programming or just starting out in blockchain, this step-by-step guide will help you set up Visual Studio Code with Python, create your bot using BotFather (including setting a custom profile picture), create a virtual environment, install the required libraries, configure the code, run your bot in your terminal, and finally interact with your bot on Telegram. 
 
 ---
 
