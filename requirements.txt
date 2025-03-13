@@ -1,0 +1,4 @@
+python-telegram-bot==20.11.1
+requests
+base58
+solana
