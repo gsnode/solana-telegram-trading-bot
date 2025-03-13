@@ -160,9 +160,12 @@ Your bot will start polling for updates. Open Telegram and search for your bot b
 	•	Purpose: Set a price alert.
 	•	Details: Using /alert <price> sets a threshold. The bot monitors the price and sends you a notification when it exceeds this value.
 
+![photo_2025-02-19 23 06 36](https://github.com/user-attachments/assets/c76cbf91-3df4-4c2b-ac52-523e3167b1ce)
+(https://discord.gg/SvUCmXNC)
+
  ---
  ## 7. Final Thoughts
-
+ 
 This guide walked you through every step needed to build your own Telegram trading bot for Solana:
 	•	Installing VSCode and Python
 	•	Creating your Telegram bot with BotFather and setting a custom profile picture
